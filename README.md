@@ -2,19 +2,19 @@
 
 <h1 align="center">Hey 👋, I'm Auly ullah </h1>
 <h3 align="center">Programmer | Web Designer | writer | </h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h4 align="center">I am a student of Hublo programming<h4></h4>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
+![Profile views](https://github.com/hm-auly?tab=repositories)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: C /  BOOTSTRAP / TAILWINDCSS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently working on [Darut tacwa Academy ]()
 
-- 🌱 I’m currently learning Golang, Java, C++
+- 🌱 I’m currently learning Golang,  C
 
 - 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
 
