@@ -3,7 +3,7 @@
 
 <h2 align="left" stayle="padding-left: 50px;" font-size="30px">🙋‍♂️ Hello/Assalamu-Alaikum. </h2>
 ♛ I am Web Developer <br>
-🖊️ Love to write code <br><br>
+✒️ I love writing VS Code <br><br>
 <hr>
 <b>Personal Information</b>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;<i>Address :&nbsp; Dakha kishoreganj Katiadi</i><br>
