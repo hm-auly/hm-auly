@@ -2,8 +2,8 @@
 ![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
 
 <h2 align="left">🙋‍♂️ Hello/Assalamu-Alaikum. </h2>
-<h3 align="center">Programmer | Web Designer | writer | </h3>
-<h4 align="center">I am a student of Hublo programming<h4></h4>
+<h3 align="left">👑 I am Web Developer </h3>
+<h4 align="left">🖊️ Love to write code</h4>
 
 <div align="center">
 
