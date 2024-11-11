@@ -5,7 +5,7 @@
 ♚ I am Web Developer <br>
 🖊️ Love to write code <br>
 <b>Personal Information</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<i align="center">Address: </i>bjj </h3>
-<p align="center">Bangladesh</p>
+<p align="right">Bangladesh</p>
 
 ![Profile views](https://github.com/hm-auly?tab=repositories)
 
