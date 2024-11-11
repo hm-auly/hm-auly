@@ -2,7 +2,7 @@
 ![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
 
 <h2 align="left" stayle="padding-left: 50px;" font-size="30px">🙋‍♂️ Hello/Assalamu-Alaikum. </h2>
-♚ I am Web Developer <br>
+♛ I am Web Developer <br>
 🖊️ Love to write code <br><br>
 <hr>
 <b>Personal Information</b>
