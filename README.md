@@ -1,5 +1,5 @@
 <h1 align="center">👋 HI, I'm Auly ullah</h1>
-<img src="IMG-20241108-WA0009.jpg" >
+<img src="IMG_২০২৪১১১১_২০২৬১০.jpg" >
 
 <h1 align="left" stayle="padding-left: 50px;" font-size="30px">🙋‍♂️ Hello/Assalamu-Alaikum. </h1>
 <p>♛ I am Web Developer <br>✒️ I love writing VS Code</p><br>
