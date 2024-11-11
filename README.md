@@ -14,7 +14,7 @@
 
 <h3 align="center"> About me </h3>
 <p align="justify"> I am a teacher & web developer.
-I have been teaching for the past one year and five months and I have had the opportunity to teach hundreds of students in an academy.
+I have been teaching for the past one year and five months and I have had the opportunity to teach hundreds of students in an academy.<br>
 November 2020 I completed Hefz. 
 From there I started learning web development from the reputed platform Hablu programmer in Bangladesh. After that I am improving my web development skills.
 I want to learn something new every day till the end of my life 
