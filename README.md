@@ -1,7 +1,7 @@
 <h1>👋 HI, I'm Auly ullah</h1>
 ![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
 
-<h2 align="left" font-size="30px">🙋‍♂️ Hello/Assalamu-Alaikum. </h2>
+<h2 align="left" stayle="padding-left: 50px;" font-size="30px">🙋‍♂️ Hello/Assalamu-Alaikum. </h2>
 ♚ I am Web Developer <br>
 🖊️ Love to write code
 <b>Personal Information</b> <i align="center">Address: </i>bjj </h3>
