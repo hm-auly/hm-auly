@@ -4,7 +4,7 @@
 <h2 align="left" stayle="padding-left: 50px;" font-size="30px">🙋‍♂️ Hello/Assalamu-Alaikum. </h2>
 ♚ I am Web Developer <br>
 🖊️ Love to write code
-<b>Personal Information</b> <i align="center">Address: </i>bjj </h3>
+<big>Personal Information</big> <i align="center">Address: </i>bjj </h3>
 
 ![Profile views](https://github.com/hm-auly?tab=repositories)
 
