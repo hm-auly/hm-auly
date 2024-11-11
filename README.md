@@ -22,39 +22,6 @@ And I want to share it with my students and others <br>
 I want to be a good person in my life and want to benefit people </p>
 <hr>
 
-
-
-
-<h3>Contact & Connect with me! </h3>
-
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/shovoalways)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/shovoalways/)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/shovoalways)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/youtube.png?raw=true' alt='YouTube' height='40'>](https://www.youtube.com/@ProcoderBD)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/shovoalways/)
-
-
-
-
-
-
-
-![Profile views](https://github.com/hm-auly?tab=repositories)
-
-Skills: C /  BOOTSTRAP / TAILWINDCSS / HTML / CSS
-
-</div>
-
-- 🔭 I’m currently working on [Darut tacwa Academy ]()
-
-- 🌱 I’m currently learning Golang,  C
-
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
-
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
-
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
-
-- 📫 How to reach me **programmerharun@gmail.com**
-
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
