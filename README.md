@@ -13,7 +13,7 @@
 <hr>
 <b>Personal Information</b>
 <p align="right"> <i>Address :&nbsp; Dakha kishoreganj Katiadi</i><br>
-  <i>Sex : &nbsp; Male &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</i><br>
+  <i>Sex : &nbsp; Male &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</i><br>
   <i>Date of birth : &nbsp; 1/1/2007 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </i>     <br><i>Nationality : &nbsp; Bangladesh &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      &nbsp;</i><br>
 
 <hr>
