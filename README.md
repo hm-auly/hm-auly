@@ -3,7 +3,7 @@
 
 <h1 align="left" stayle="padding-left: 50px;" font-size="30px">🙋‍♂️ Hello/Assalamu-Alaikum. </h1>
 <p>♛ I am Web Developer </p> 
-<p>✒️ I love writing VS Code</p>
+<br>✒️ I love writing VS Code</p>
 <p>🏘️ I live in Bangladesh</p>
 <hr>
 <h3 align="center"> About me </h3>
